@@ -69,3 +69,18 @@ campus-item-transfer/
 - 登录使用 JWT（HS256）
 - 后端按注解控制权限：公开接口、需登录接口、管理员专属接口
 - 表单前后端双重校验，防止空内容提交
+
+
+
+## 项目演示截图
+<img src="./1.png" style="max-width:700px;width:100%;" />
+<img src="./2.png" style="max-width:700px;width:100%;" />
+<img src="./3.png" style="max-width:700px;width:100%;" />
+<img src="./4.png" style="max-width:700px;width:100%;" />
+<img src="./5.png" style="max-width:700px;width:100%;" />
+<img src="./6.png" style="max-width:700px;width:100%;" />
+
+## 技术交流
+
+> 仅用于源码技术交流学习
+
